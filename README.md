@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MªTeresa Milanés Barroso</h1>
 <h3 align="center">A passionate frontend developer from Spain, I strive to create stunning user interfaces and exceptional user experiences. With a strong foundation in web development and a keen eye for design, I bring a unique blend of technical expertise and artistic vision to my projects. My goal is to continuously learn and stay up-to-date with the latest technologies and trends, ensuring that my work remains cutting-edge and impactful.</h3>
 
-- 🔭 I’m currently working on [ManfredExport app](https://github.com/Lemoncode/manfred-export-app)
+- 🔭 I’m currently collaborate with [ManfredExport app](https://github.com/Lemoncode/manfred-export-app)
 - 🌱 I’m currently learning **python, mongoDB, Docker**
 - 👨‍💻 All of my projects are available at [https://github.com/MTeresaMB](https://github.com/MTeresaMB)
 
