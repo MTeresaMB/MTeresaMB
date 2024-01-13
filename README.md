@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MªTeresa Milanés Barroso</h1>
-<h3 align="center">As a Front End developer with a background in Fine Arts and a solid education that includes a Higher Vocational Training in DAW, a JavaScript + TypeScript Bootcamp, and a Master's in Front End, I have honed the ability to merge creativity with technical skills. My expertise is reflected in my current contribution to the ManfredExport project, where I utilize technologies such as React, TypeScript, and HTML/CSS, along with EJS, to transform JSON Schema into MS Word, Markdown, and HTML formats.</h3>
+<h3 align="center">Front End Developer with experience in design and programming. My background in Fine Arts, coupled with a Higher Degree in Web Application Development (DAW), a JavaScript + TypeScript Bootcamp, and a Master's in Front End, has equipped me to blend creativity with technical skills. Currently, I am enhancing my profile with backend skills by attending a Backend Bootcamp. I am also actively involved in open-source projects within the community, such as Manfred Export and Mongo Modeler, utilizing technologies like React, TypeScript, HTML/CSS/SVG, VITE, VITEST, EJS, and more.</h3>
 
 - 🔭 I’m currently collaborate with [ManfredExport app](https://github.com/Lemoncode/manfred-export-app)
 - 🌱 I’m currently learning **.net, mongoDB, Docker**
