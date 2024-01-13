@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MªTeresa Milanés Barroso</h1>
 <h3 align="center">Front End Developer with experience in design and programming. My background in Fine Arts, coupled with a Higher Degree in Web Application Development (DAW), a JavaScript + TypeScript Bootcamp, and a Master's in Front End, has equipped me to blend creativity with technical skills. Currently, I am enhancing my profile with backend skills by attending a Backend Bootcamp. I am also actively involved in open-source projects within the community, such as Manfred Export and Mongo Modeler, utilizing technologies like React, TypeScript, HTML/CSS/SVG, VITE, VITEST, EJS, and more.</h3>
 
-- 🔭 I’m currently collaborate with [ManfredExport app](https://github.com/Lemoncode/manfred-export-app)
+- 🔭 I’m currently collaborate with [ManfredExport app](https://www.manfredexport.com/) and [Mongo Modeler app](https://github.com/Lemoncode/mongo-modeler)
 - 🌱 I’m currently learning **.net, mongoDB, Docker**
 - 👨‍💻 All of my projects are available at [https://github.com/MTeresaMB](https://github.com/MTeresaMB)
 
